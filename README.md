@@ -12,11 +12,18 @@ his guide provides the step-by-step process for connecting Microsoft Defender fo
 
 📌 2. Create the Onboarding Policy
 2.1 Select Platform and Profile Type
+
+
+<img src="https://imgur.com/q9DT4lw.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+
+
 2.2 Configure Policy Basics
 2.3 Set Configuration Package to "Auto from connector"
-<img src="https://https://imgur.com/q9DT4lw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://https://imgur.com/BI0zl5U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+
+<img src="https://imgur.com/BI0zl5U.png" height="70%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 📌 3. Assign the Policy
